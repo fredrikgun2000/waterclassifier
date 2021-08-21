@@ -1,4 +1,4 @@
-hai kakak kakak
+# water classification
 jadi begini susunannya,
 project final 
 1) folder "air" untuk frontend webnya berbasis VUE CLI
